@@ -1,0 +1,6 @@
+@Doador.Api_HostAddress = http://localhost:5209
+
+GET {{Doador.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
