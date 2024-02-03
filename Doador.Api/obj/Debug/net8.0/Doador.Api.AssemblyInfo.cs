@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doador.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d88b09ec3ab8010050bc1a62db20ea9b18d63cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doador.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doador.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Api", "Doador.Api\Doador.Api.csproj", "{9859C3FB-CC75-41E5-86FE-509D6122616F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Api", "Doador.Api\Doador.Api.csproj", "{9859C3FB-CC75-41E5-86FE-509D6122616F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Service", "Doador.Service\Doador.Service.csproj", "{8A43CDE7-7E74-440C-8FDA-1FE913350554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Service", "Doador.Service\Doador.Service.csproj", "{8A43CDE7-7E74-440C-8FDA-1FE913350554}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Domain", "Doador.Domain\Doador.Domain.csproj", "{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Domain", "Doador.Domain\Doador.Domain.csproj", "{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doador.Repository", "Doador.Repository\Doador.Repository.csproj", "{8B2CC513-FC46-46FC-B172-513571AD4942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Repository", "Doador.Repository\Doador.Repository.csproj", "{8B2CC513-FC46-46FC-B172-513571AD4942}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
