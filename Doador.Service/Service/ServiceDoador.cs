@@ -1,13 +1,50 @@
-﻿using System;
+﻿using Doador.Domain.Commands;
+using Doador.Domain.Interfaces;
+namespace Doador.Service.Service;
+
+using Doador.Api.ViewModel;
+using Doador.Domain.Entities;
+using Repository.Repositorys;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace Doador.Service.Service
+public class ServiceDoador : IDoadorService
 {
-    public  class ServiceDoador
+    private readonly IDoadorRepository _doadorRepository;
+    public ServiceDoador(IDoadorRepository doadorRepository)
     {
-      
+        _doadorRepository = doadorRepository;
+    }
+
+    public async Task create(DoadorCommand command)
+    {
+        await _doadorRepository.create(command);
+ 
+    }
+
+    public Task<IEnumerable<DoadorViewModel>> GetAll()
+    {
+        throw new NotImplementedException();
+    }
+
+    public async Task<DoadorCommand> GetById(int doadorId)
+    {
+        throw new NotImplementedException();
+    }
+    public async Task Update(int doadorId, string nomeCompleto)
+    {
+        throw new NotImplementedException();
+    }
+
+
+    Task<DoadorViewModel> IDoadorService.GetById(int doadorId)
+    {
+        throw new NotImplementedException();
+    }
+
+    void IDoadorService.Update(int doadorId, string nomeCompleto)
+    {
+        throw new NotImplementedException();
     }
 }

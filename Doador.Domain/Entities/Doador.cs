@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Doador.Domain.Commands;
+using Doador.Domain.Interfaces;
 
-namespace Doador.Domain.Entities
+namespace Doador.Domain.Entities;
+public class Doador
 {
-    internal class Doador
-    {
-    }
+    public string NomeCompleto { get; set; }
+    public string Idade { get; set; }
+    public string Estado { get; set; }
+    public string Email { get; set; }
+    public string Telefone { get; set; }
+
 }

@@ -1,0 +1,16 @@
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.csproj.AssemblyReference.cache
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.AssemblyInfoInputs.cache
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.AssemblyInfo.cs
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.csproj.CoreCompileInputs.cache
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.sourcelink.json
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\bin\Debug\net8.0\Doador.Service.deps.json
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\bin\Debug\net8.0\Doador.Service.dll
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\bin\Debug\net8.0\Doador.Service.pdb
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\bin\Debug\net8.0\Doador.Domain.dll
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\bin\Debug\net8.0\Doador.Domain.pdb
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.csproj.CopyComplete
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.dll
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\refint\Doador.Service.dll
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\Doador.Service.pdb
+C:\Users\talita.foliveira10\source\repos\Doador.Api\Doador.Service\obj\Debug\net8.0\ref\Doador.Service.dll

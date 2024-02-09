@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Service", "Doador.Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Domain", "Doador.Domain\Doador.Domain.csproj", "{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Doador.Repository", "Doador.Repository\Doador.Repository.csproj", "{8B2CC513-FC46-46FC-B172-513571AD4942}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{D97DFBCD-C299-4351-A634-F2CC8D0556AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B8F7F4-7F90-4E11-8AE1-A025577FE81D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8B2CC513-FC46-46FC-B172-513571AD4942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8B2CC513-FC46-46FC-B172-513571AD4942}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8B2CC513-FC46-46FC-B172-513571AD4942}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8B2CC513-FC46-46FC-B172-513571AD4942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D97DFBCD-C299-4351-A634-F2CC8D0556AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D97DFBCD-C299-4351-A634-F2CC8D0556AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D97DFBCD-C299-4351-A634-F2CC8D0556AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D97DFBCD-C299-4351-A634-F2CC8D0556AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
